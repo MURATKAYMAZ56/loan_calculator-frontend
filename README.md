@@ -8,8 +8,6 @@ The project structure includes the following key directories:
 
 - **src**: Contains the source code for the React application.
 - **public**: Holds static assets and the HTML file.
-- **node_modules**: Contains the project dependencies.
-- **public**: Includes the build files and assets after running the build script.
 
 ## Getting Started
 
