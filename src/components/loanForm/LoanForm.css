@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.form_element {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form_element input {
+  line-height: 24px;
+}
+
+.loan_error {
+  color: red;
+}
+
+.loan_submit {
+  padding: 5px;
+  box-sizing: border-box;
+}

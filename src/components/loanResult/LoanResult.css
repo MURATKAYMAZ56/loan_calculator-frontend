@@ -1,0 +1,14 @@
+.loan_result {
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .loan_emi {
+    color: rgb(0, 95, 210);
+    font-size: 2rem;
+  }
+  
